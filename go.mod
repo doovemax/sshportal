@@ -10,9 +10,9 @@ require (
 	github.com/erikstmartin/go-testdb v0.0.0-20160219214506-8d10e4a1bae5 // indirect
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
 	github.com/gliderlabs/ssh v0.1.1 // indirect
-	github.com/go-gormigrate/gormigrate v1.2.1
+	github.com/go-gormigrate/gormigrate v1.3.0
 	github.com/go-sql-driver/mysql v1.4.1 // indirect
-	github.com/gofrs/uuid v3.1.0+incompatible // indirect
+	github.com/gofrs/uuid v3.1.2 // indirect
 	github.com/google/go-cmp v0.2.0 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20181103185306-d547d1d9531e // indirect
 	github.com/jinzhu/gorm v1.9.2
@@ -27,7 +27,7 @@ require (
 	github.com/mattn/go-runewidth v0.0.4 // indirect
 	github.com/mattn/go-sqlite3 v1.10.0 // indirect
 	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b
-	github.com/moby/moby v0.7.3-0.20190103212154-2b7e084dc98b
+	github.com/moby/moby v0.12.0
 	github.com/moul/ssh v0.1.1-0.20181116135657-8b3cdd49b6d2
 	github.com/olekukonko/tablewriter v0.0.1
 	github.com/pmezard/go-difflib v1.0.0 // indirect
@@ -38,7 +38,7 @@ require (
 	github.com/smartystreets/goconvey v0.0.0-20181108003508-044398e4856c
 	github.com/urfave/cli v1.20.0
 	golang.org/x/crypto v0.0.0-20190103213133-ff983b9c42bc
-	golang.org/x/sys v0.0.0-20190102155601-82a175fd1598 // indirect
+	golang.org/x/sys v0.0.0-20190105203629-badf5585203e // indirect
 	google.golang.org/appengine v1.4.0 // indirect
-	gopkg.in/stretchr/testify.v1 v1.2.2 // indirect
+	gopkg.in/stretchr/testify.v1 v1.3.0 // indirect
 )
