@@ -14,7 +14,7 @@
 * Fix log path and filename on Windows ([#78](https://github.com/moul/sshportal/pull/78)) by [@Raerten](https://github.com/Raerten)
 * Admin user is not editable ([#69](https://github.com/moul/sshportal/pull/69)) by [@alenn-m](https://github.com/alenn-m)
 * Switch to go modules (go1.11) ([#83](https://github.com/moul/sshportal/pull/83))
-* Switch to moul.io/sshportal canonical URL ([#86](https://github.com/moul/sshportal/pull/86))
+* Switch to github.com/doovemax/sshportal canonical URL ([#86](https://github.com/moul/sshportal/pull/86))
 * Switch to golangci-lint ([#87](https://github.com/moul/sshportal/pull/87))
 
 ## v1.8.0 (2018-04-02)

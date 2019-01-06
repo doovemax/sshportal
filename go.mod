@@ -1,4 +1,4 @@
-module moul.io/sshportal
+module github.com/doovemax/sshportal
 
 require (
 	cloud.google.com/go v0.34.0 // indirect

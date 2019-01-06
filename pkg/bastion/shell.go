@@ -1,4 +1,4 @@
-package bastion // import "moul.io/sshportal/pkg/bastion"
+package bastion // import "github.com/doovemax/sshportal/pkg/bastion"
 
 import (
 	"bufio"
@@ -21,8 +21,8 @@ import (
 	"github.com/urfave/cli"
 	gossh "golang.org/x/crypto/ssh"
 	"golang.org/x/crypto/ssh/terminal"
-	"moul.io/sshportal/pkg/crypto"
-	"moul.io/sshportal/pkg/dbmodels"
+	"github.com/doovemax/sshportal/pkg/crypto"
+	"github.com/doovemax/sshportal/pkg/dbmodels"
 )
 
 var banner = `

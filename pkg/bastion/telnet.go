@@ -1,4 +1,4 @@
-package bastion // import "moul.io/sshportal/pkg/bastion"
+package bastion // import "github.com/doovemax/sshportal/pkg/bastion"
 
 import (
 	"bufio"
@@ -11,7 +11,7 @@ import (
 	"github.com/moul/ssh"
 	oi "github.com/reiver/go-oi"
 	telnet "github.com/reiver/go-telnet"
-	"moul.io/sshportal/pkg/dbmodels"
+	"github.com/doovemax/sshportal/pkg/dbmodels"
 )
 
 type bastionTelnetCaller struct {

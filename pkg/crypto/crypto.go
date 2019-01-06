@@ -1,4 +1,4 @@
-package crypto // import "moul.io/sshportal/pkg/crypto"
+package crypto // import "github.com/doovemax/sshportal/pkg/crypto"
 
 import (
 	"bytes"
@@ -15,7 +15,7 @@ import (
 	"strings"
 
 	gossh "golang.org/x/crypto/ssh"
-	"moul.io/sshportal/pkg/dbmodels"
+	"github.com/doovemax/sshportal/pkg/dbmodels"
 )
 
 func NewSSHKey(keyType string, length uint) (*dbmodels.SSHKey, error) {

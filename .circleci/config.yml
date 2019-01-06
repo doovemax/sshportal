@@ -1,5 +1,5 @@
 defaults: &defaults
-  working_directory: /go/src/moul.io/sshportal
+  working_directory: /go/src/github.com/doovemax/sshportal
   docker:
     - image: circleci/golang:1.11.4
   environment:

@@ -12,7 +12,7 @@ import (
 	"github.com/moul/ssh"
 	"github.com/urfave/cli"
 	gossh "golang.org/x/crypto/ssh"
-	"moul.io/sshportal/pkg/bastion"
+	"github.com/doovemax/sshportal/pkg/bastion"
 )
 
 type serverConfig struct {

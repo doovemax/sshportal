@@ -1,4 +1,4 @@
-package bastion // import "moul.io/sshportal/pkg/bastion"
+package bastion // import "github.com/doovemax/sshportal/pkg/bastion"
 
 import (
 	"encoding/binary"

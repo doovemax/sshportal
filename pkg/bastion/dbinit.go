@@ -1,4 +1,4 @@
-package bastion // import "moul.io/sshportal/pkg/bastion"
+package bastion // import "github.com/doovemax/sshportal/pkg/bastion"
 
 import (
 	"fmt"
@@ -13,8 +13,8 @@ import (
 	"github.com/go-gormigrate/gormigrate"
 	"github.com/jinzhu/gorm"
 	gossh "golang.org/x/crypto/ssh"
-	"moul.io/sshportal/pkg/crypto"
-	"moul.io/sshportal/pkg/dbmodels"
+	"github.com/doovemax/sshportal/pkg/crypto"
+	"github.com/doovemax/sshportal/pkg/dbmodels"
 )
 
 func DBInit(db *gorm.DB) error {
